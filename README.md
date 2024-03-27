@@ -5,6 +5,6 @@ The aim of this project is to automatically generate anime faces by just providi
 Official research paper of the WassersteinGAN. https://arxiv.org/abs/1701.07875
 
 # Prerequisites
-*Computer with Linux or OSX
--PyTorch
--For training, an NVIDIA GPU is strongly recommended for speed. CPU is supported but - training is very slow.
+* Computer with Linux or OSX
+- PyTorch
+- For training, an NVIDIA GPU is strongly recommended for speed. CPU is supported but - training is very slow.
