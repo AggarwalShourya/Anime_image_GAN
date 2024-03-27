@@ -9,4 +9,4 @@ Official research paper of the WassersteinGAN. https://arxiv.org/abs/1701.07875
 * PyTorch
 * For training, an NVIDIA GPU is strongly recommended for speed. CPU is supported but - training is very slow.
 
-###### In the notebook titled final_eval_byop I have attached the complete notebook which also depicts the images morphing into one another 
+##### In the notebook titled final_eval_byop I have attached the complete notebook which also depicts the images morphing into one another 
