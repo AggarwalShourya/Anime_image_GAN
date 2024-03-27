@@ -1,1 +1,2 @@
 # Anime_image_GAN
+The aim of this project is to automatically generate anime faces by just providing a input noise vector.I have used WassersteinGAN for the following project, also in the other half of this project I have to build one CNN also which can extract the features/latent representation of the image and which in turn can be passed into the trained Generator model thereby working like an autoencoder and thereby exploiting the latent space of GANs.
