@@ -6,5 +6,5 @@ Official research paper of the WassersteinGAN. https://arxiv.org/abs/1701.07875
 
 # Prerequisites
 * Computer with Linux or OSX
-- PyTorch
-- For training, an NVIDIA GPU is strongly recommended for speed. CPU is supported but - training is very slow.
+* PyTorch
+* For training, an NVIDIA GPU is strongly recommended for speed. CPU is supported but - training is very slow.
